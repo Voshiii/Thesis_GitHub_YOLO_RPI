@@ -1,3 +1,8 @@
+# Some code in this file is from the Raspberry Pi project
+# BSD 2-Clause License
+# Copyright (c) 2021, Raspberry Pi
+# All rights reserved.
+
 import argparse
 import sys
 from functools import lru_cache
